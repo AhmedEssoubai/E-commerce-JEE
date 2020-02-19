@@ -1,0 +1,15 @@
+#forme{
+    background-color: white;
+    min-height: 750px;
+}
+.card-deck{
+    background-color: white !important;
+    min-height: 350px;
+}
+.card{
+    background-color: white !important;
+    border: 0;
+}
+.prix{
+    color: #ec5252;
+}

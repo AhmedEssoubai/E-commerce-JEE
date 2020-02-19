@@ -1,0 +1,13 @@
+footer{
+    background-color: #3498db;
+}
+
+footer #langs{
+    background-color: transparent !important;
+    color: white !important;
+    border-color: white !important;
+}
+
+footer #langs option{
+    color: black !important
+}

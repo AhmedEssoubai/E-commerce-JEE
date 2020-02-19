@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<context>
+	<Resource
+	name="jdbc/e_commerce"
+	driverClassName="com.mysql.jdbc.Driver"
+	url="jdbc:mysql://localhost/e_commerce?zeroDateTimeBehavior=convertToNull"
+	type="javax.sql.DataSource"
+	username="root"
+	password=""
+	auth="Container"/>
+</context>

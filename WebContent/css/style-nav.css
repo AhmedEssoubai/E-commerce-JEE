@@ -1,0 +1,58 @@
+.navbar {
+    box-shadow: 2px 2px 5px #3498db;
+    opacity: 0.9;
+    background: #fff; 
+}
+
+.navbar .nav-item {
+    font-size: 1.4rem;
+    padding-right: 20px; 
+}
+
+.btn-primary{
+    background-color: #3498db !important;
+    border-color: #3498db !important;
+}
+
+.btn-primary:hover{
+    background-color: #1e76b0 !important;
+    border-color: #1e76b0 !important;
+}
+
+.navbar .btn-outline-secondary{
+    background-color: transparent !important;
+    border-color: rgba(114, 114, 114, 1) !important;
+    color: rgba(114, 114, 114, 1) !important;
+}
+
+.navbar .btn-outline-secondary:hover{
+    background-color: transparent !important;
+    border-color: rgba(114, 114, 114, 0.5) !important;
+    color: rgba(114, 114, 114, 0.5) !important;
+}
+
+._link{
+    color: rgba(52, 152, 219, 1);
+}
+
+._link:hover{
+    color: rgba(52, 152, 219, 0.5);
+    text-decoration: none;
+}
+
+.bg-gray{
+    background-color: rgba(247, 248, 250, 1);
+}
+.line{
+    height: 1px;
+    background-color: rgba(50, 50, 55, 0.3);
+    /*border-bottom: 1px solid rgba(50, 50, 55, 0.6)*/
+    box-shadow: 0 1px 5px rgba(50, 50, 55, 0.2);
+}
+.errorMessage{
+	color: rgb(236, 82, 82);
+}
+.hiddedElement{
+    position:fixed;
+    opacity:0;
+}

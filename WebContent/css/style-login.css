@@ -1,0 +1,23 @@
+#login{
+    background-image: url('../img/statique/store.jpg');
+    background-size: cover;
+    min-height: 800px;
+}
+
+#login .primary-overlay{
+    background-color: rgba(52, 152, 219, 0.8);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#forme{
+    box-shadow: 0 0 20px 2px rgba(50, 50, 50, 0.2);
+    background-color: white;
+    min-height: 750px;
+}
+.radio-label{
+    color: rgb(66, 70, 73, 0.5);
+    cursor: pointer;
+}
